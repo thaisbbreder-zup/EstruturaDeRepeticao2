@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3bb59d62-1c9d-4ca0-a618-e6a51ee32e6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/E08.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,14 +38,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/thais.breder/Desktop/Atividades/Aula9_EstruturaDeRepeticao2/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.E08">
-    <configuration name="E03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="E03" />
-      <module name="Aula9_EstruturaDeRepeticao2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.E09">
     <configuration name="E04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="E04" />
       <module name="Aula9_EstruturaDeRepeticao2" />
@@ -75,13 +67,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="E09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E09" />
+      <module name="Aula9_EstruturaDeRepeticao2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.E09" />
         <item itemvalue="Application.E08" />
         <item itemvalue="Application.E07" />
         <item itemvalue="Application.E06" />
         <item itemvalue="Application.E04" />
-        <item itemvalue="Application.E03" />
       </list>
     </recent_temporary>
   </component>
