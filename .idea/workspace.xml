@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3bb59d62-1c9d-4ca0-a618-e6a51ee32e6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/E02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2QLoqUUFy7W1KUnSMwkn8B84Wg1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -36,6 +39,28 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/thais.breder/Desktop/Atividades/Aula9_EstruturaDeRepeticao2/src/Main.java&quot;
   }
 }</component>
+  <component name="RunManager" selected="Application.E03">
+    <configuration name="E02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E02" />
+      <module name="Aula9_EstruturaDeRepeticao2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E03" />
+      <module name="Aula9_EstruturaDeRepeticao2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.E03" />
+        <item itemvalue="Application.E02" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
