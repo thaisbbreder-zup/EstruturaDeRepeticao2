@@ -17,6 +17,12 @@ public class E04 {
         for (int i = 0; i < quantidade; i++) {
             System.out.println("Número:");
             int numero = entradaDoUsuario.nextInt();
+
+            while(numero < 0) {
+                System.out.println("Número inválido! Tente novamente.");
+                numero = entradaDoUsuario.nextInt();
+            }
+
             // Adição do número à variável soma
             soma += numero;
         }
